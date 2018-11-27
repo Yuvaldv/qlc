@@ -27,3 +27,9 @@ name = "<i class='fab fa-fw fa-linkedin'></i> Yuval Vered"
 identifier = "ds"
 url = "https://www.linkedin.com/in/yuvalvered/"
 weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-fw fa-portrait'></i> Portfolio"
+identifier = "ds"
+url = "http://yuvalv.strikingly.com"
+weight = 10
