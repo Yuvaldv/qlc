@@ -1,0 +1,29 @@
+baseURL = ""
+title = "QLC Curriclums"
+theme = "hugo-theme-learn"
+themesdir = "themes"
+metaDataFormat = "yaml"
+publishDir = "docs"
+defaultContentLanguageInSubdir= true
+
+[params]
+  editURL = ""
+  description = "QLC Curriculums"
+  author = "Yuval Vered"
+  showVisitedLinks = true
+  disableBreadcrumb = false
+  disableNextPrev = false
+  disableLanguageSwitchingButton = true
+  ordersectionsby = "weight"
+  themeVariant = "mine"
+  defaultContentLanguage = "en"
+
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-fw fa-linkedin'></i> Yuval Vered"
+identifier = "ds"
+url = "https://www.linkedin.com/in/yuvalvered/"
+weight = 10

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Content on QLC Curriclums</title>
+    <link>/content-marketing/</link>
+    <description>Recent content in Content on QLC Curriclums</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="/content-marketing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
