@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "/qlc"
 title = "QLC Curriclums"
 theme = "hugo-theme-learn"
 themesdir = "themes"

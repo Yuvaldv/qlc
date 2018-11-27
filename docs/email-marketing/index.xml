@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Email on QLC Curriclums</title>
-    <link>/email-marketing/</link>
+    <link>/qlc/email-marketing/</link>
     <description>Recent content in Email on QLC Curriclums</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="/email-marketing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/qlc/email-marketing/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

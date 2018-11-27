@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tools &amp; Templates on QLC Curriclums</title>
-    <link>/search-engine-optimization/tools-templates/</link>
+    <link>/qlc/search-engine-optimization/tools-templates/</link>
     <description>Recent content in Tools &amp; Templates on QLC Curriclums</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="/search-engine-optimization/tools-templates/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/qlc/search-engine-optimization/tools-templates/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
