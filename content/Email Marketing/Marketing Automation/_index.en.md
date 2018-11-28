@@ -6,11 +6,11 @@ pre: ""
 
 Marketing automation, often referred to as lifecycle marketing, drip campaigns or message personalization involves creating user flows depending on their continuous interaction with our emails- links clicked, email opens, web content such as videos interacted with, etc.
 
-[![img](/assets/email/image3.png)](https://emailmonks.com/drip-email-marketing/infographic.html)
+[![img](/qlc/assets/email/image3.png)](https://emailmonks.com/drip-email-marketing/infographic.html)
 
 Optimally we’ll want to create a drip campaign for each goal & personalize it per customer segment, such as stage in the customer journey, i.e the number or drip campaigns we’ll have is equal to (Goals x Segments).
 
-![img](/assets/inbound_method.png?width=50pc)
+![img](/qlc/assets/inbound_method.png?width=50pc)
 
 Often times though we’ll rely on the drip campaign itself to do the segmenting, splitting customers into groups throughout the campaign-flow depending on their interactions.
 

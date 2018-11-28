@@ -58,11 +58,11 @@ Blockchain's popularity is on the rise, from consumer-facing [money-management](
 
 Well, so far the blockchain startups have gained a rapid growth in [VC funds headed its way](https://techcrunch.com/2018/05/20/with-at-least-1-3-billion-invested-globally-in-2018-vc-funding-for-blockchain-blows-past-2017-totals/), expanding at a median rate of 150% per year since 2012 when it collected 25,000 dollars in VC funding, to 2018 when it collected $1.3B, so far.
 
-![img](/assets/blockchain/vcfunds.png)
+![img](/qlc/assets/blockchain/vcfunds.png)
 
-![img](/assets/blockchain/vcfunds2012.png?width=40pc)
+![img](/qlc/assets/blockchain/vcfunds2012.png?width=40pc)
 
-![img](/assets/blockchain/simpsongrowth.jpg)
+![img](/qlc/assets/blockchain/simpsongrowth.jpg)
 
 Putting startup projects aside, large enterprise corporations are far from being left out in the dust.
 [JP Morgan](https://www.jpmorgan.com/global/blockchain) is working on numerous projects along with [Quorom](https://www.jpmorgan.com/global/Quorum) which it launched earlier this year.

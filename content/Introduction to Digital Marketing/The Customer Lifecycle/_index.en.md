@@ -18,7 +18,7 @@ We’re going to review three different frameworks for describing the customer l
 
 # Mckinsey’s customer journey
 
-![img](/assets/customer_journey.png)
+![img](/qlc/assets/customer_journey.png)
 
 This framework describes how a potential customer, otherwise known as a lead or a prospect, might view us among our competition as well as all other content they consume.
 
@@ -34,13 +34,13 @@ After which they’ll come back & keep using it, hopefully, on a regular basis, 
 
 The now satisfied customer, would then recommend our product to acquaintances, bringing us fresh leads. This is the final stage which triggers a repeat of the previously mentioned customer retention process.
 
-![img](/assets/MarketingFunnel.png)
+![img](/qlc/assets/MarketingFunnel.png)
 
 This is of course a funnel, as we progress down this funnel throughout the different stages-- awareness, consideration, purchase, retention and advocacy,  we’ll have less and less leads or customers than we had in the previous stage, In other words, each stage contains a percentage of its predecessor.
 
 # The Inbound Methodology
 
-![img](/assets/inbound_method.png)
+![img](/qlc/assets/inbound_method.png)
 
 The inbound methodology describes, how we as digital marketers attempt to impact strangers into becoming paying customers.
 

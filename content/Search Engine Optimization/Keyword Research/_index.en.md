@@ -13,7 +13,7 @@ Researching keywords entail the following:
 
 Using [Moz Keyword Explorer](https://moz.com/explorer) on our domain, subdomains, and pages we’ll see exactly what keywords are currently indexed for our website, enabling us to create human and index digestible content per those specific keywords.
 
-![alt text](/assets/content/MOZsearch.png)
+![alt text](/qlc/assets/content/MOZsearch.png)
 
 ## Relevant Keywords
 
@@ -53,7 +53,7 @@ Thus, When we're targeting relevant keywords in our SEO articles our content wil
 
 LSIs can be found at the bottom of the google search page, search for other relevant terms to collect an array of LSI to use in your content.
 
-![alt text](/assets/content/egypt.png)
+![alt text](/qlc/assets/content/egypt.png)
 
 ## Longtail Keywords
 

@@ -76,7 +76,7 @@ While it’s tempting to choose what you like from the rainbow of colors availab
 
 [ColorZilla](http://www.colorzilla.com/) is a great tool for extracting colors from web pages and into color-hex-codes which can be easily inserted into twitter’s color settings.
 
-![image alt text](/assets/smm/image_17.png)
+![image alt text](/qlc/assets/smm/image_17.png)
 
 ### Birthday
 
@@ -179,7 +179,7 @@ You can run your polls in several different manners, each with their own set of 
 
 ##### Twitter Polls
 
-![image alt text](/assets/smm/image_18.png)
+![image alt text](/qlc/assets/smm/image_18.png)
 
 Allows for up to 4 different answers, closes polling within 24 hours, presents overall engagements, but doesn’t show which user voted which way.
 

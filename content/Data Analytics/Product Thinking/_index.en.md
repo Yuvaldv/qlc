@@ -50,10 +50,10 @@ Unlike user-flows, these funnels are very specific at arriving at a desired busi
 
 Funnels are named as such due to the fact that throughout, fewer users convert.
 
-![marketing-funnel-diagram.png](/assets/DA/image4.png?classes=shadow&width=60pc)
+![marketing-funnel-diagram.png](/qlc/assets/DA/image4.png?classes=shadow&width=60pc)
 
 Here are a couple of examples for funnels:
 
-![alt-text](/assets/DA/funnel1.png?classes=shadow&width=30pc)
-![alt-text](/assets/DA/funnel2.png?classes=shadow&width=30pc)
-![alt-text](/assets/DA/funnel3.png?classes=shadow&width=30pc)
+![alt-text](/qlc/assets/DA/funnel1.png?classes=shadow&width=30pc)
+![alt-text](/qlc/assets/DA/funnel2.png?classes=shadow&width=30pc)
+![alt-text](/qlc/assets/DA/funnel3.png?classes=shadow&width=30pc)

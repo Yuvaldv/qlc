@@ -26,4 +26,4 @@ pre: ""
 
 The following template aims at helping you manage your schedule & backlog. It's highly advised to modify the template for the needs of your team and project in contrast to using it as is.
 
-[SMM Template](/assets/smm/SMM_Template.xlsx)
+[SMM Template](/qlc/assets/smm/SMM_Template.xlsx)

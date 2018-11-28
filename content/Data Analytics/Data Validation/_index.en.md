@@ -52,7 +52,7 @@ When defining and implementing you UTM parameters in posts, content, page compon
 1. Do not use them for internal links on your own website. Following user interactions using UTM codes is a futile effort and there are far more advanced techniques for this attempt. The use of UTM codes, as we said, is following outside traffic sources leading to our website.
 
 2. Make sure to properly mark and segment paid traffic using the `utm_medium` parameter e.g CPC or CPM, from organic traffic such as posts or articles. Not doing so will weaken your position to establish return-on-investment from paid sources and will highly damage your competence to derive actionable insights from your analytics.
-3. Not documenting your UTM code placement could be a fatal error leading to severe ambiguity later on. Do make sure to create a shareable sheet and tracking your UTM Codes. Use [this template](/assets/DA/UTM_Codes.xlsx)
+3. Not documenting your UTM code placement could be a fatal error leading to severe ambiguity later on. Do make sure to create a shareable sheet and tracking your UTM Codes. Use [this template](/qlc/assets/DA/UTM_Codes.xlsx)
 4. the `utm_campaign` parameter is highly versatile and can be used a great number of ways such as tracking campaigns for:
    1. Seasonal promotions
    2. A specific product line such as `shoes`, `jackets`, `t-shirts`

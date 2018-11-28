@@ -35,6 +35,6 @@ The copy guidelines are rather robust specifying exactly how writers should enga
 
 The Content Marketing template contains the Segments tab, which should be filled with your desired content segments along with the approximate word count, CTA & Distribution platforms for each. A Schedule tab which should be used to place your different content segments in a monthly schedule as well as populates your distribution schedule per platform. The Creation KPI tracking which tracks your creation process and attention to deadlines, and a tab containing examples of how to calculate growth using excel. Make sure to modify this file per your own needs and share it with your team so you’re all working on the same document.
 
-[Content Marketing Template](/assets/content/Content_Marketing_Template.xlsx)
+[Content Marketing Template](/qlc/assets/content/Content_Marketing_Template.xlsx)
 
-[Copy Guidelines Template](/assets/content/Copy_Guidelines_Template.docx)
+[Copy Guidelines Template](/qlc/assets/content/Copy_Guidelines_Template.docx)

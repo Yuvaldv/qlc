@@ -61,7 +61,7 @@ When defining and implementing you UTM parameters in posts, content, page compon
 
 2. Make sure to properly mark and segment paid traffic using the `utm_medium` parameter e.g CPC or CPM, from organic traffic such as posts or articles. Not doing so will weaken your position to establish return-on-investment from paid sources and will highly damage your competence to derive actionable insights from your analytics.
 
-3. Not documenting your UTM code placement could be a fatal error leading to severe ambiguity later on. Do make sure to create a shareable sheet and tracking your UTM Codes. Use [this template](/assets/DA/UTM_Codes.xlsx)
+3. Not documenting your UTM code placement could be a fatal error leading to severe ambiguity later on. Do make sure to create a shareable sheet and tracking your UTM Codes. Use [this template](/qlc/assets/DA/UTM_Codes.xlsx)
 
 4. the `utm_campaign` parameter is highly versatile and can be used a great number of ways such as tracking campaigns for:
 
@@ -98,7 +98,7 @@ $avgGrowth = (\frac{recentTime}{firstTime})^\frac{1}{n} -1 $
 
 Calculates average growth between *n* timestamps
 
-Here’s a [template growth sheet](/assets/smm/GrowthCalc.xlsx) you may copy and insert real data into.
+Here’s a [template growth sheet](/qlc/assets/smm/GrowthCalc.xlsx) you may copy and insert real data into.
 
 ### Rate
 
@@ -124,7 +124,7 @@ After we’ve done enough market research to feel comfortable posting our own co
 
 For each optimization cycle we’ll build or adjust our social posting schedule which could be either wholistic or segmented per platform
 
-![image alt text](/assets/smm/image_7.png)
+![image alt text](/qlc/assets/smm/image_7.png)
 
 ## Goal
 

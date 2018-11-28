@@ -97,7 +97,7 @@ Once we’ve mapped out the types of content we’ll be creating it’s time to 
 
 A recurring weekly schedule of articles to-be-posted by type is essential for a fluent and predictable workflow
 
-![img](/assets/content/image3.png)
+![img](/qlc/assets/content/image3.png)
 
 ### Backlog
 
@@ -107,7 +107,7 @@ Our backlog is a list of all our ideas for new articles, it should contain URLs 
 
 Alright, so now we’re well established on the content workflow, schedule, and backlog, but we still need a unified voice across our entire team, we need a brand to follow.
 
-Here's a [great example](/assets/content/Copy_Guidelines_Template.docx) of how our copy-guidelines might look like. While this example is of high-detail and 8 pages long, your copy-guidelines can be much shorter and generalized.
+Here's a [great example](/qlc/assets/content/Copy_Guidelines_Template.docx) of how our copy-guidelines might look like. While this example is of high-detail and 8 pages long, your copy-guidelines can be much shorter and generalized.
 
 The important thing being that it’s coherent in making all our articles across our entire content-writing team have a unified voice and personality adhering to our brand’s message and mission.
 

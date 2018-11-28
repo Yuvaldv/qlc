@@ -10,7 +10,7 @@ Personalized email messages today comprise 58% of all marketing revenue, improve
 
 By segmenting our existing email list into smaller groups with different types of audiences we may effectively personalize the types of content & messages we’ll want to deliver to those audiences to better intrigue & engage them.
 
-[![img](/assets/email/image2.png)](https://www.skidmore.edu/webhelp/informz/uploads/Informz_Benchmark-Report_2015.pdf)
+[![img](/qlc/assets/email/image2.png)](https://www.skidmore.edu/webhelp/informz/uploads/Informz_Benchmark-Report_2015.pdf)
 
 Our audience segments can vary widely depending on our market, our product, and our audiences. Optimally we would use our buyer personas or user personas to offer ideas for how to segment our audience.
 

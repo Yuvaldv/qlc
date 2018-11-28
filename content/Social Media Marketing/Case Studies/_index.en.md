@@ -26,9 +26,9 @@ Though Social Media Marketing seems to be the trending channel of customer acqui
 
 These metrics, courtesy of [INK361](http://ink361.com/), show exactly how AceBeute grew their audience.
 
-![image alt text](/assets/smm/image_8.png)
+![image alt text](/qlc/assets/smm/image_8.png)
 
-![image alt text](/assets/smm/image_9.png)
+![image alt text](/qlc/assets/smm/image_9.png)
 
 [Original Case Study on ILoveFashion](http://ilovefashionretail.com/case-studies/case-study-used-instagram-promote-beauty-brand-drive-sales-organic-engagement)
 

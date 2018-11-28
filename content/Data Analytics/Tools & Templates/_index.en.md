@@ -71,10 +71,10 @@ CodeAcademy provides an excellent, 3 part [interactive course](https://www.codec
 
 Also here are a couple of SQL Cheat Sheets for reference:
 
-![img](/assets/DA/image5.png)
+![img](/qlc/assets/DA/image5.png)
 
-![img](/assets/DA/image6.png)
-![img](/assets/DA/image1.png)
+![img](/qlc/assets/DA/image6.png)
+![img](/qlc/assets/DA/image1.png)
 
 # Market Resources
 

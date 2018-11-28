@@ -50,10 +50,10 @@ a lead is an individual or organization with an interest in what you are selling
 Here are two examples of how of segmented cohorts of the target audience:
 
 By behavior and converison rate:
-![img](/assets/IntrotoDM/CohortbyMonth.png?width=40pc)
+![img](/qlc/assets/IntrotoDM/CohortbyMonth.png?width=40pc)
 
 By month of registration
-![img](/assets/IntrotoDM/CohortsbyBehavior.png?width=40pc)
+![img](/qlc/assets/IntrotoDM/CohortsbyBehavior.png?width=40pc)
 
 **Friction**: Refers to an evidence that something is causing delay or failure, depends highly on context, when speaking of user friction indicates that users don't convert at some point. when speaking of project it indicates that someone or some group of people are causing delay and noise. A lot of friction at one point causes a bottleneck.
 
@@ -131,7 +131,7 @@ Then each of these points would be a different milestone for creating new campai
 **Outbound Marketing**: Outbound marketing is a traditional method of marketing seeking to obstruct potential customer's time by diverting their attention with ads, cold calls, and more.
 
 **Marketing Funnel**: A set of components such as posts, landing pages, articles, ads and more that are used in a set order aiming for customer acquisition. For Instance:
-![img](/assets/IntrotoDM/funnel1.png?width=20pc)
+![img](/qlc/assets/IntrotoDM/funnel1.png?width=20pc)
 
 **Copy**: Copywriting is the act of writing text for the marketing purposes. The product, called copy, is written content that aims to increase brand awareness and ultimately persuade a person or group to take a particular action.
 

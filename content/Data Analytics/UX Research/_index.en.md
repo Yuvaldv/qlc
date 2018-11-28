@@ -8,7 +8,7 @@ pre: ""
 
 Validated learning is a process of hypothesizing, measuring, and validating how a certain components of our product best engage our audience. So while we may believe we understand that audience, their real world actions speak louder than our hypothesis.
 
-![alt-text](/assets/DA/Lean-Loop.png)
+![alt-text](/qlc/assets/DA/Lean-Loop.png)
 
 Each validated or disproved hypothesis brings us closer to understanding our target audience, their drivers, inclination & behaviour, so we can come at actionable insights on how modify and optimize our product pages to serve value and solve pain-points.
 

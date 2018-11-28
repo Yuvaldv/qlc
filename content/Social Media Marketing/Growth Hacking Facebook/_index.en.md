@@ -77,7 +77,7 @@ Fill in according to the company's brand message and guidelines.
 
 * Categories, interests, etc.
 ```
-![image alt text](/assets/smm/image_10.png)
+![image alt text](/qlc/assets/smm/image_10.png)
 
 ### Create Custom and Social Tabs
 
@@ -95,7 +95,7 @@ The settings menu is a powerful and comprehensive page management and customizat
 
 #### Edit Page
 
-![image alt text](/assets/smm/image_11.png)
+![image alt text](/qlc/assets/smm/image_11.png)
 
 Here you can edit and rearrange your *tabs* and *CTA*, either via your own customization or from the ready-made templates offered by Facebook.
 
@@ -123,7 +123,7 @@ Take notice that these items come without a CTA so don't expect them to convert 
 
 ### Review Your Page
 
-![image alt text](/assets/smm/image_13.png)
+![image alt text](/qlc/assets/smm/image_13.png)
 
 Now that we’re ready to accept visitors into our page, let’s take a look at exactly how it will be presented to them using the ‘*view as a page visitor*’ function on the toolbar below our cover photo.
 
@@ -147,7 +147,7 @@ featuring, [liking](https://www.facebook.com/help/932938890092217) and [@tagging
 
 Using curated and organic content (around a 60% / 40% ratio), we’ll start scheduling 5-8 weekly posts using either SMM platforms such as [Hootsuite](https://hootsuite.com/) and [dlvr.it](https://dlvrit.com/) or simply via Facebook’s post scheduling dashboard available at Publishing Tools scheduled posts, With every post we’ll use Facebook’s [post targeting](https://www.facebook.com/help/352402648173466)to make sure we’re engaging our target-audience specifically.
 
-![image alt text](/assets/smm/image_14.png)
+![image alt text](/qlc/assets/smm/image_14.png)
 
 take notice that batch posting has been found to be not only less effective but also counterproductive, appearing to users as concentrated spam on their timeline and resulting in unfollowers, blocks, and reports.
 
@@ -157,13 +157,13 @@ So after we’ve gained enough traction with our branding efforts we’ll post a
 
 While the Facebook page view is well fitted to manage our branding efforts, marketing posts require quite a different set of features such as CTAs,  carousel images, videos and presentations which are all available in [Facebook’s PowerEditor](https://www.facebook.com/powereditor/pages).
 
-![image alt text](/assets/smm/image_15.gif)
+![image alt text](/qlc/assets/smm/image_15.gif)
 
 For a larger view of the image, right-click and open in a new tab
 
 *Offers* are also a great way to gain some traction and escalate conversion rates for a certain timeframe.
 
-![image alt text](/assets/smm/image_16.png)
+![image alt text](/qlc/assets/smm/image_16.png)
 
 ## Social Analytics
 

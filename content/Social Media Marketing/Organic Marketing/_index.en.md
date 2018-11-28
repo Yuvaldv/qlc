@@ -14,7 +14,7 @@ In order to expand the reach of our brand beyond its own scope and out into that
 
 Organic (our own) brand content should focus on **case-studies** & **storytelling**, describing how real users benefit from our product and the story of the people behind the product, **People** being the operative word. We’ll also try to include our posts as part of larger conversations, within context, take notice not to spam, not use the most popular keywords, or keywords which were popular but are no longer trending, nor keywords no one uses.
 
-![image alt text](/assets/smm/image_1.png)
+![image alt text](/qlc/assets/smm/image_1.png)
 
 You don’t want to get lost in a pond that’s too big, nor be contained in an unengaging conversation.
 
@@ -22,6 +22,6 @@ You don’t want to get lost in a pond that’s too big, nor be contained in an 
 
 Marketing efforts are limited to those specific *posts* aimed at presenting users with our products and services, leading them to our website or landing pages via a *call-to-action* (CTA) and converting them to register, purchase and use those services. Unlike branding, marketing success is measured by *click-through-rate* (CTR) and *conversion rate*, so no amount of likes or shares will save you when your audience simply won’t convert leaving you only to scream *‘submit the !@#$% form already!’*
 
-![image alt text](/assets/smm/image_2.png)
+![image alt text](/qlc/assets/smm/image_2.png)
 
 The above ad for Rolls-Royce, considered to be on of the most successful ad campaigns in history, has a lot to teach-- from the product research that’s been done to come up with that specific headline, to the **boldly** marked price tag aimed at *qualifying leads*, and the brief bullet points characterizing the article aiming at catching the reader's attention span continuously. Just something to think about.
