@@ -29,7 +29,7 @@ url = "https://www.linkedin.com/in/yuvalvered/"
 weight = 10
 
 [[menu.shortcuts]]
-name = "<i class='fab fa-fw fa-portrait'></i> Portfolio"
-identifier = "ds"
+name = "<i class='fas fa-address-card'></i> Portfolio"
+identifier = "ss"
 url = "http://yuvalv.strikingly.com"
-weight = 10
+weight = 11
