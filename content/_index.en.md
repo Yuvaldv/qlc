@@ -6,7 +6,7 @@ title: "Home"
 
 # Quarter Life Crisis Curriculums
 
-[QLC](https://qlc.io) is a startup specializing in online experiential education offering remote education bundles that included course and remote internships with startups and digital businesses across the globe.
+[QLC](https://qlc.io) is a startup specializing in online experiential education, offering remote education bundles that include a courses along with remote internships operated with real startups from across the globe.
 
 During my time with QLC i've defined and deployed a git-based, xAPI compliant, LMS.
 
