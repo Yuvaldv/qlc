@@ -12,14 +12,14 @@ pre: ""
 
 ## Recognizing Disruptive Technology
 ### How Kodak invented the camera that would destroy it
-<img src="/assets/blockchain/KodakLogo.png" height="96" width="96">
+<img src="/qlc/assets/blockchain/KodakLogo.png" height="96" width="96">
 
 One of the most famous case studies teaching lack of foresight when it comes to disruptive technologies involves the infamous demise of the camera and film company Kodak.
 
 Despite the fact that the first digital camera was invented in Kodak's own R&D department by [Steve Sasson](https://en.wikipedia.org/wiki/Steven_Sasson) in 1975, and when the [first consumer product](https://en.wikipedia.org/wiki/Sony_Mavica) hit the market in 1981, Kodak's own Head of Market Intelligence handed in a fairly accurate report predicting the adoption-rate of digital cameras, Kodak's management failed to see digital cameras as disruptive technology for two decades ending up with the company filing for bankruptcy in 2012.
 
 ### How Nokia lacked initiative to participate in the Smartphone battles
-<img src="/assets/blockchain/nokia-logo.png" height="96" width="96">
+<img src="/qlc/assets/blockchain/nokia-logo.png" height="96" width="96">
 
 Nokia, a Finnish company which started out in the pulp mill industry back in 1865, in 1960 Nokia first ventured into the telecommunication markets going from military, government and enterprise markets slowly towards consumer markets with car-phones and personal computers, until 1987 when they rolled out the first product that can truly be described as a mobile phone, the Mobira Cityman 900.
 

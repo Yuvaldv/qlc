@@ -87,14 +87,14 @@ Buyer personas are more interested in higher level goals such as feature set.
 
 **MRR**: The Monthly Recurring Revenue (MRR)  is an average of all revenue acquired for a month for a subscription based product, yearly payments are split into 1/12 for each month instead of counting for the month the transaction was done.
 
-**LTV**: In marketing, the Lifetime Value (LTV) is a prediction of the net profit attributed to the entire future relationship with a customer. and is calculated buy averageing
+**LTV**: In marketing, the Lifetime Value (LTV) is a prediction of the net profit attributed to the entire future relationship with a customer. and is calculated buy averaging
 
-$ \frac{MRR}{Number of Customers \times Chrun} $
+$ \frac{MRR}{Number of Customers \times Churn} $
 
 **ROI**: Return-on-Investment (ROI) is a metric that puts into account the the budget put into a task and the return and benefits of that task as a monetary value. It depends highly on the context and scope of the conversation - whether we're speaking of a campaign, one of several brands, or our entire operation.
 When speaking of our whole operation for instance.
 
-$ ROI = CAC / LTV $
+$ ROI = \frac{CAC}{LTV} $
 
 Keeping tabs on the ROI of your campaigns helps you make smarter decisions about how you should be allocating resources.
 
@@ -119,9 +119,13 @@ Keeping tabs on the ROI of your campaigns helps you make smarter decisions about
 **Stakeholder**: Is a person, people or organization who has an interest and stake in what we're doing such as our product or our marketing campaigns. Stakeholders are kept informed as far as the process of work continues and can affect and are affected by the strategy and execution.
 
 **Milestone**: A milestone is a predefined part of project execution, for instance if you break the creation of a new campaign into 4 parts
+
 - Creation
+
 - Distribution
+
 - Result Analysis
+
 - Validation (Success/Failure)
 
 Then each of these points would be a different milestone for creating new campaigns.
@@ -190,7 +194,7 @@ And the KPIs i.e Key Results, coupled with it would be
 
 **CPM**: Cost per Impression (CPM) is an ad payment model where you pay for every 1000 impressions i.e views of your ad. This is in contrast to the various types of pay-for-performance advertising, whereby payment is only triggered by a mutually agreed upon activity (i.e. click-through, lead, sale).
 
-**CPC** Cost per Click (CPC) is an ad payment model where you pay for each click on your ad instead of just the ad being viewed. If the ad is presented to a user and isn't clicked, you don't pay.
+**CPC**: Cost per Click (CPC) is an ad payment model where you pay for each click on your ad instead of just the ad being viewed. If the ad is presented to a user and isn't clicked, you don't pay.
 
 **CPL**: Cost per Lead (CPL) is an ad payment model where you pay for each qualified lead, meaning not only was the ad presented to the user, and not only did he click it, he also filled out a form or clicked a CTA which qualifies him as a lead.
 
@@ -219,15 +223,16 @@ $\frac{metric}{audience}$
 
 **Avearge**: While working in digital marketing it's important to differentiate and understand the different kind's of averages: __Mean, Median, Mode, and Range__
 
-Mean: The mean average is what your used to-- taking the overall sum and dividing by the number of numbers included.
+*Mean*: The mean average is what your used to-- taking the overall sum and dividing by the number of numbers included.
 
-$ MeanAvg = \frac{Sum}{#ofNumbers} $
+$$ MeanAvg = \frac{Sum}{#ofNumbers} $$
+
 $ MeanAvg(4,4,4,10,15,15,112) = \frac{164}{7} = 23.43 $
 
-Median: The median average is the middle value in the list of numbers,
+*Median*: The median average is the middle value in the list of numbers,
 so if we have 7 numbers such as in (4,4,4,10,15,15,112), the median will be the 4th number (10).
 
-Mode: The mode average is the number appearing the most times.
+*Mode*: The mode average is the number appearing the most times.
 in (4,4,4,10,15,15,112) the number 15 appears twice, and the number 4 appears three times.
 Therefore the mode of (4,4,4,10,15,15,112) is 4.
 
